@@ -318,8 +318,7 @@ This project is based on the research paper:
 - *Authors*: Hayla Omar
 - *Affiliation*: Faculty of Science, University Chouaib Doukkali, El Jadida, Morocco
 - *Supervisor*: Pr. Abdessadek Aaroud
-- *Published*: Applied Sciences, 2025
-- *DOI*: [10.3390/app15010165](https://www.mdpi.com/2076-3417/15/1/165)
+
 
 ### Key References
 1. **Dataset Sources**:
